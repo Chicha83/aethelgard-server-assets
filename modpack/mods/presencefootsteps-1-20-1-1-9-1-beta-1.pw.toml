@@ -1,0 +1,8 @@
+name = "PresenceFootsteps-1.20.1-1.9.1-beta.1"
+filename = "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+hash-format = "sha256"
+hash = "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98"

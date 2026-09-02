@@ -1,0 +1,8 @@
+name = "CustomBGM-Forge-1.20.1-2.0.1-all"
+filename = "CustomBGM-Forge-1.20.1-2.0.1-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/CustomBGM-Forge-1.20.1-2.0.1-all.jar"
+hash-format = "sha256"
+hash = "53266c751c520871d2bf785b7e628576a1d1e349f1fc0b0a1eeb38376fb7c78b"

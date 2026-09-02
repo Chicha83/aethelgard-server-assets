@@ -1,0 +1,262 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mod-files/Chunky-1.3.146.jar"
+hash = "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141"
+
+[[files]]
+file = "mod-files/CustomBGM-Forge-1.20.1-2.0.1-all.jar"
+hash = "53266c751c520871d2bf785b7e628576a1d1e349f1fc0b0a1eeb38376fb7c78b"
+
+[[files]]
+file = "mod-files/FECore-Forge-1.20.1-2.0.1-all.jar"
+hash = "6e92cedb90f57ef834bb65a816c1837c9de24424ad44a5676c43d69078bdfed7"
+
+[[files]]
+file = "mod-files/Jade-1.20.1-Forge-11.13.3.jar"
+hash = "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4"
+
+[[files]]
+file = "mod-files/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
+hash = "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98"
+
+[[files]]
+file = "mod-files/SmartBrainLib-forge-1.20.1-1.15.jar"
+hash = "dc1f5497e1a175397fa10ea84170d8311c71b592976128700fb008139dde55d4"
+
+[[files]]
+file = "mod-files/[1.20.1] SecurityCraft v1.10.2.1.jar"
+hash = "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
+
+[[files]]
+file = "mod-files/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mod-files/asteorbar-forge-1.20.1-1.5.3.jar"
+hash = "2f1ab70bd704a3b4054b84fdfa2ac1b5894c65794b215b8dd1a516856325c8fd"
+
+[[files]]
+file = "mod-files/bandagez-1.20.1-forge-0.2.5.jar"
+hash = "2a4ee8d3002adb7133fe2209000fedd9c7815226d5ac6bd7ac1d25f93729eddd"
+
+[[files]]
+file = "mod-files/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mod-files/cupboard-1.20.1-4.1.jar"
+hash = "9522d88548eca28469441743a1d4a16a5ad863cd5e00ec6525130485a695392b"
+
+[[files]]
+file = "mod-files/dynamicsurroundingsforge-1.20.1-1.3.1.jar"
+hash = "c08652d79adc58bd35a7080cc34aec8a68627911d0da9bd9079f8c0b3a41f367"
+
+[[files]]
+file = "mod-files/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mod-files/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+
+[[files]]
+file = "mod-files/insanelib-1.23.4.6.jar"
+hash = "cadc3902d8bb6d454f6b5039381da3995220640a1945b65400a2a16f4052a318"
+
+[[files]]
+file = "mod-files/jei-1.20.1-forge-15.49.0.200.jar"
+hash = "f61f8964725aa72a0d4affeb32184c642fd0e5807b73bd1495269f33d50a316b"
+
+[[files]]
+file = "mod-files/lastofus-2.8-forge-1.20.1.jar"
+hash = "2c18c82f615d51bcc9a720a6e48dfd7ade621a20b9095e51d50d7273a61a67f9"
+
+[[files]]
+file = "mod-files/lootintegrations-1.20.1-4.7.jar"
+hash = "88dc2701f90c04a4fa343be11ea0c21cbda1d675cba514f201946dcd8eae17ea"
+
+[[files]]
+file = "mod-files/lootr-forge-1.20-0.7.35.94.jar"
+hash = "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+
+[[files]]
+file = "mod-files/modernfix-forge-5.27.77+mc1.20.1.jar"
+hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"
+
+[[files]]
+file = "mod-files/nohunger-1.2.3.jar"
+hash = "2b80105158aed35124e0334d5ed845a0a0b780fd37610ce83a5c9c023bd8be1b"
+
+[[files]]
+file = "mod-files/respawn_save_points-1.1.3-1.20.1.jar"
+hash = "87b408d166180fbe02e5d81c871f58d7b2e6152d5ff7cd433e15b382f6d082ec"
+
+[[files]]
+file = "mod-files/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+hash = "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"
+
+[[files]]
+file = "mod-files/starlight-1.1.2+forge.1cda73c.jar"
+hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+
+[[files]]
+file = "mod-files/tacz-1.20.1-1.1.8-hotfix.jar"
+hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
+
+[[files]]
+file = "mod-files/tacznpcs-2.1.0-1.20.1.jar"
+hash = "2593aa66cd56c08538a91ed3d274c054b043f0c6a4c0ff51a37de310d60734ee"
+
+[[files]]
+file = "mod-files/xaerominimap-forge-1.20.1-26.4.2.jar"
+hash = "8143f332ed20a61a518692b42c793e021b6bd2d0d9d61cf3938fb9cfa07eb59c"
+
+[[files]]
+file = "mod-files/xaeroworldmap-forge-1.20.1-1.45.0.jar"
+hash = "747e2f3c203f8c294887fe400184ad48c02df008e1d69ad7f7d01809853a7ba2"
+
+[[files]]
+file = "mods/1-20-1-securitycraft-v1-10-2-1.pw.toml"
+hash = "1ecec2addc4b7f352323255f556582b79fce5b255fe52d017fb4235255a38bb2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-9-2-14-forge.pw.toml"
+hash = "803dca8752532861d646b5844c5c00c83ba531f06693822a70d9f235f507dbd6"
+metafile = true
+
+[[files]]
+file = "mods/asteorbar-forge-1-20-1-1-5-3.pw.toml"
+hash = "4fd116fd966e82b94d0a4758c83c059aa31bb11740ae860d4532322ed90f9573"
+metafile = true
+
+[[files]]
+file = "mods/bandagez-1-20-1-forge-0-2-5.pw.toml"
+hash = "3b6a0ea3540ea5f4d049831a61af54f7b58c85cd6ce743e1a4847889b89150fd"
+metafile = true
+
+[[files]]
+file = "mods/chunky-1-3-146.pw.toml"
+hash = "60cc336c912556b78bd49d4c9c037218860127cad0aaec529aff465d23152514"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-11-1-136-forge.pw.toml"
+hash = "35f909d476604b6efd98ebf46c6d2359d8d4a20ae7a95689bf4c97233f5652dc"
+metafile = true
+
+[[files]]
+file = "mods/cupboard-1-20-1-4-1.pw.toml"
+hash = "a14eb5b7dcd7f4b44f27f745085df0cb2b0f18d834dff235c446ccfade88d67c"
+metafile = true
+
+[[files]]
+file = "mods/custombgm-forge-1-20-1-2-0-1-all.pw.toml"
+hash = "3d0e01c024525f26b8e573347704a3ca3bcc3f3277fe2787fcc60a9b7184a311"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundingsforge-1-20-1-1-3-1.pw.toml"
+hash = "37a7a6ec971d02924786a921d04bd3e69273987b1ca414dded8ed6d862b72a8f"
+metafile = true
+
+[[files]]
+file = "mods/fecore-forge-1-20-1-2-0-1-all.pw.toml"
+hash = "4789a05bc67b9bc2a00cfc154537afd19c7bd69cf5819ca4be428ba2e31907fc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-6-0-1-forge.pw.toml"
+hash = "2576afffea53c5e927679e12bfd147c8b51548196da1c33026ee4d2ff97381bf"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-forge-1-20-1-4-8-4.pw.toml"
+hash = "1c3637a186c397cbba71dff64939f997d8a65f79091f7bfb63d440fc4fbc5ba9"
+metafile = true
+
+[[files]]
+file = "mods/insanelib-1-23-4-6.pw.toml"
+hash = "06187e4f1b1289c554f8cf9768f5a65ee62de335e84198ee3db2a41b1e9d3cda"
+metafile = true
+
+[[files]]
+file = "mods/jade-1-20-1-forge-11-13-3.pw.toml"
+hash = "61b44456dd11e7f9fdbdfa1f5633c7ac1570ed468397770a78d47d6f96b0257d"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-20-1-forge-15-49-0-200.pw.toml"
+hash = "ed7dc5e2fdaa1d25b87a342312152ccedf92cd7b2add9f8f8db82c7c0960e740"
+metafile = true
+
+[[files]]
+file = "mods/lastofus-2-8-forge-1-20-1.pw.toml"
+hash = "fdfdfe27eaf0bbeefca183fb999e44caf2f9a5acb7f871486ed4a50d4eb81c10"
+metafile = true
+
+[[files]]
+file = "mods/lootintegrations-1-20-1-4-7.pw.toml"
+hash = "92e0b26d73873df484f0ff4b6bde5feb1832e6c4a9a74461464e3ed35dcb2cae"
+metafile = true
+
+[[files]]
+file = "mods/lootr-forge-1-20-0-7-35-94.pw.toml"
+hash = "174f9670f07374e7921bfcec72be44bc234bfbb47c203c36302b74ef4e589334"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-forge-5-27-77-mc1-20-1.pw.toml"
+hash = "6e8c3050185ae3b5a674084c8c1d1e2fe1acb296f86793f334ab16afed246cc5"
+metafile = true
+
+[[files]]
+file = "mods/nohunger-1-2-3.pw.toml"
+hash = "21bc5afb1436a23c56f1051019084994af13872922da9206b55f516752e5898d"
+metafile = true
+
+[[files]]
+file = "mods/presencefootsteps-1-20-1-1-9-1-beta-1.pw.toml"
+hash = "33ec86ccfb0dd77a4b451cc07f0aac416e68a3572620888d375a08209a553035"
+metafile = true
+
+[[files]]
+file = "mods/respawn-save-points-1-1-3-1-20-1.pw.toml"
+hash = "58da79b59eceba8623b8bb4c5759e2f61495df4e9e0f7c507d1bdd64aaab208d"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib-forge-1-20-1-1-15.pw.toml"
+hash = "d6b0ee0787ce4edacea23c119c632efbfe5ca56d326c15c12bcb720a02347d01"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-forge-1-20-1-1-5-1.pw.toml"
+hash = "907457eacac41afb5f05e7554e254d7912c94d15c24f7f7e04814f1047dd81bb"
+metafile = true
+
+[[files]]
+file = "mods/starlight-1-1-2-forge-1cda73c.pw.toml"
+hash = "8325b126898fddae1855a0e3bab8eac387113a8de4f9d49ac1b56fcc1f1c1858"
+metafile = true
+
+[[files]]
+file = "mods/tacz-1-20-1-1-1-8-hotfix.pw.toml"
+hash = "c408cc3c1d78829d61448e8dceb6ba3e2ce0bbee2fb205e5849286f6cd08fc3a"
+metafile = true
+
+[[files]]
+file = "mods/tacznpcs-2-1-0-1-20-1.pw.toml"
+hash = "dc478596d26948969bbf72fb81d40096ee854ee354feef5cd082b0c41e03ebbd"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-forge-1-20-1-26-4-2.pw.toml"
+hash = "170157c9afb8485c23a7cd8dc5bce10a1751854303c1a8ebc3678b4b1c265c3d"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-forge-1-20-1-1-45-0.pw.toml"
+hash = "f7bb2e5ab52133b5c21dc8755964d1333c76652fe4e3a0c7025e408760055398"
+metafile = true

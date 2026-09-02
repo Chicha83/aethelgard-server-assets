@@ -1,0 +1,8 @@
+name = "SmartBrainLib-forge-1.20.1-1.15"
+filename = "SmartBrainLib-forge-1.20.1-1.15.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/SmartBrainLib-forge-1.20.1-1.15.jar"
+hash-format = "sha256"
+hash = "dc1f5497e1a175397fa10ea84170d8311c71b592976128700fb008139dde55d4"

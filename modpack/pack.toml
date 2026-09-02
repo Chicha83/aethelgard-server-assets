@@ -1,0 +1,13 @@
+name = "Aethelgard"
+author = "Chicha83"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "89ea9f4f6e76673dc35d8065eec1dd4ec37f843c973d90578dfcfc15a25c42f1"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

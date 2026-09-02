@@ -1,0 +1,8 @@
+name = "FECore-Forge-1.20.1-2.0.1-all"
+filename = "FECore-Forge-1.20.1-2.0.1-all.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/FECore-Forge-1.20.1-2.0.1-all.jar"
+hash-format = "sha256"
+hash = "6e92cedb90f57ef834bb65a816c1837c9de24424ad44a5676c43d69078bdfed7"

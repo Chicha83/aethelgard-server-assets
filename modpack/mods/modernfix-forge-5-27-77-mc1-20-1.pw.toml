@@ -1,0 +1,8 @@
+name = "modernfix-forge-5.27.77+mc1.20.1"
+filename = "modernfix-forge-5.27.77+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/modernfix-forge-5.27.77%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "d4be9281c569eb761a5764a27c7733e6cb6a34adaff5392b711edf09bba32636"

@@ -1,0 +1,8 @@
+name = "respawn_save_points-1.1.3-1.20.1"
+filename = "respawn_save_points-1.1.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/respawn_save_points-1.1.3-1.20.1.jar"
+hash-format = "sha256"
+hash = "87b408d166180fbe02e5d81c871f58d7b2e6152d5ff7cd433e15b382f6d082ec"
