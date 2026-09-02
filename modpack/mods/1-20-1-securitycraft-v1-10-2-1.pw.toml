@@ -1,8 +1,0 @@
-name = "[1.20.1] SecurityCraft v1.10.2.1"
-filename = "[1.20.1] SecurityCraft v1.10.2.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar"
-hash-format = "sha256"
-hash = "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"

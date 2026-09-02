@@ -1,8 +1,0 @@
-name = "sound-physics-remastered-forge-1.20.1-1.5.1"
-filename = "sound-physics-remastered-forge-1.20.1-1.5.1.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
-hash-format = "sha256"
-hash = "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"

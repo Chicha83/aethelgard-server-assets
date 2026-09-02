@@ -1,8 +1,0 @@
-name = "cupboard-1.20.1-4.1"
-filename = "cupboard-1.20.1-4.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/cupboard-1.20.1-4.1.jar"
-hash-format = "sha256"
-hash = "9522d88548eca28469441743a1d4a16a5ad863cd5e00ec6525130485a695392b"

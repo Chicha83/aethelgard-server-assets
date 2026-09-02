@@ -1,8 +1,0 @@
-name = "lastofus-2.8-forge-1.20.1"
-filename = "lastofus-2.8-forge-1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/lastofus-2.8-forge-1.20.1.jar"
-hash-format = "sha256"
-hash = "2c18c82f615d51bcc9a720a6e48dfd7ade621a20b9095e51d50d7273a61a67f9"

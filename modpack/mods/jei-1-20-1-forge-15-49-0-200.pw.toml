@@ -1,8 +1,0 @@
-name = "jei-1.20.1-forge-15.49.0.200"
-filename = "jei-1.20.1-forge-15.49.0.200.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/jei-1.20.1-forge-15.49.0.200.jar"
-hash-format = "sha256"
-hash = "f61f8964725aa72a0d4affeb32184c642fd0e5807b73bd1495269f33d50a316b"

@@ -1,8 +1,0 @@
-name = "bandagez-1.20.1-forge-0.2.5"
-filename = "bandagez-1.20.1-forge-0.2.5.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/bandagez-1.20.1-forge-0.2.5.jar"
-hash-format = "sha256"
-hash = "2a4ee8d3002adb7133fe2209000fedd9c7815226d5ac6bd7ac1d25f93729eddd"

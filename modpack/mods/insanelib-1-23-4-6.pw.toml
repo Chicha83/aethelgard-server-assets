@@ -1,8 +1,0 @@
-name = "insanelib-1.23.4.6"
-filename = "insanelib-1.23.4.6.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/insanelib-1.23.4.6.jar"
-hash-format = "sha256"
-hash = "cadc3902d8bb6d454f6b5039381da3995220640a1945b65400a2a16f4052a318"

@@ -1,8 +1,0 @@
-name = "nohunger-1.2.3"
-filename = "nohunger-1.2.3.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/nohunger-1.2.3.jar"
-hash-format = "sha256"
-hash = "2b80105158aed35124e0334d5ed845a0a0b780fd37610ce83a5c9c023bd8be1b"

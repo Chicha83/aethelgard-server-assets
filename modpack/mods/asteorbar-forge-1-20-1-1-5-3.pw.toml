@@ -1,8 +1,0 @@
-name = "asteorbar-forge-1.20.1-1.5.3"
-filename = "asteorbar-forge-1.20.1-1.5.3.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/asteorbar-forge-1.20.1-1.5.3.jar"
-hash-format = "sha256"
-hash = "2f1ab70bd704a3b4054b84fdfa2ac1b5894c65794b215b8dd1a516856325c8fd"

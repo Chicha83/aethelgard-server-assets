@@ -1,8 +1,0 @@
-name = "dynamicsurroundingsforge-1.20.1-1.3.1"
-filename = "dynamicsurroundingsforge-1.20.1-1.3.1.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/Chicha83/aethelgard-server-assets/main/modpack/mod-files/dynamicsurroundingsforge-1.20.1-1.3.1.jar"
-hash-format = "sha256"
-hash = "c08652d79adc58bd35a7080cc34aec8a68627911d0da9bd9079f8c0b3a41f367"
